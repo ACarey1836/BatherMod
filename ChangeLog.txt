@@ -1,0 +1,8 @@
+Change log
+
+1.0.1
+Added Bather Gem Armor
+Added Bather Stick Recipe
+Added Bather Wood Planks
+Added Garfield
+Added new mob: Hamood Habibi
