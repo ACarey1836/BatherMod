@@ -8,3 +8,13 @@ Information about the mod, such as crafting recipes, items, tools, weapons, etc 
 
 For any questions, concerns, or ideas please visit
 https://andrewbcarey.com/contact/
+
+
+Change log
+
+1.0.1
+Added Bather Gem Armor
+Added Bather Stick Recipe
+Added Bather Wood Planks
+Added Garfield
+Added new mob: Hamood Habibi
