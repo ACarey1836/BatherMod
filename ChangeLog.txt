@@ -1,4 +1,13 @@
 Change log
+1.0,3
+Updated Bather Water Texture
+Added Bather Crafting Table
+Added Super Bather Gem Pickaxe
+Added Bather Gem Launcher
+Added Rapid Block Placement Tool
+Added Sounds to Bather mobs
+Added Biomes: Bather Plains, Bather Desert, Bather Mountains (Warm, Cool, Cold)
+Decreased chance of Bather Structures
 
 1.0.2
 Fixed various crafting recipes
