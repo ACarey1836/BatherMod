@@ -1,5 +1,8 @@
 Change log
 
+1.0.4
+Added Explosives
+Added Explosive Launcher
 
 1.0.3
 Updated Bather Water Texture
